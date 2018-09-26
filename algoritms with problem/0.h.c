@@ -1,3 +1,8 @@
+/*
+	입력값 p
+	배열에서 p를 포함하는 임의의 범위(i<=p<=j)의 합을 최대로한는 i, j  구하기
+*/
+
 #include <stdio.h>
 
 int sum(int, int);

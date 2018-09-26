@@ -1,3 +1,7 @@
+/*
+	입력값 n,k
+	1~n 까지의 각 수의 k제곱의 합을 구함
+*/
 #include <iostream>
 
 using namespace std;

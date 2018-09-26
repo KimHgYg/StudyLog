@@ -1,3 +1,7 @@
+/*
+	gray_code Ãâ·Â
+*/
+
 #include <iostream>
 
 #define MAX 20

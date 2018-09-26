@@ -1,3 +1,7 @@
+/*
+	입력값 : n
+	56p.cpp 에서 1/2인 확률이 2/3로 늘어났을 때 n일동안 혼나지 않을 확률
+*/
 #include <iostream>
 #include <math.h>
 
